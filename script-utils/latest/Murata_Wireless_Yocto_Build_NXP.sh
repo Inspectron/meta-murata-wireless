@@ -158,8 +158,8 @@ echo "---------------------------"
 
 (( STEP_COUNT += 1 ))
 
-GITHUB_PATH="\""https://github.com/murata-wireless/meta-murata-wireless.git"\""
-META_MURATA_WIRELESS_GIT="https://github.com/murata-wireless/meta-murata-wireless.git"
+GITHUB_PATH="\""https://github.com/Inspectron/meta-murata-wireless.git"\""
+META_MURATA_WIRELESS_GIT="https://github.com/Inspectron/meta-murata-wireless.git"
 
 echo "Fetching latest script from Murata Github."
 echo "Cloning $GITHUB_PATH"

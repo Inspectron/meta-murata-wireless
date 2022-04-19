@@ -63,8 +63,8 @@ echo "2) Verifying Host Script Version"
 echo "--------------------------------"
 
 
-GITHUB_PATH="\""https://github.com/murata-wireless/meta-murata-wireless.git"\""
-echo "Fetching latest script from Murata Github."
+GITHUB_PATH="\""https://github.com/Inspectron/meta-murata-wireless.git"\""
+echo "Fetching latest script from Inspectron Github."
 echo "Cloning $GITHUB_PATH"
 echo "Creating "\""meta-murata-wireless"\"" subfolder."
 
